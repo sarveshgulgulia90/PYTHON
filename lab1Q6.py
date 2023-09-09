@@ -11,6 +11,6 @@ elif d==0:
     print("Roots are equal")
 elif d>0:
     print("Roots are real and distinct")
-    x1=((-b+d)/(2*a))
-    x2=((-b-d)/(2*a))
+    x1=((-b+(d**0.5)/(2*a))
+    x2=((-b-(d**0.5)/(2*a))
     print(x1,x2)
