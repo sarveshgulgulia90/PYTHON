@@ -1,5 +1,5 @@
 #taking input
-n = int(input("enter value :"))
+N= int(input("enter value :"))
 #intialization variable
 a = 1
 b = 1
@@ -9,7 +9,7 @@ sum = a + b
 count = 1
 print("Fibonacci series is: ")
 #looping to save fibonacci series
-while (count <= n):
+while (count <= N):
 	count += 1
 	print(a)
 	a = b
