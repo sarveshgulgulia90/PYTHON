@@ -1,5 +1,5 @@
 #taking input
-N= int(input("enter value :"))
+N= int(input("enter value till which u want to print the series:"))
 #intialization variable
 a = 1
 b = 1
