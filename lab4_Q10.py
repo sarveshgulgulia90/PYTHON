@@ -18,4 +18,4 @@ elif d>0:
     print("Real and distinct roots")
     x1=((-b+(d**0.5)/(2*a)))
     x2=((-b-(d**0.5)/(2*a)))
-    print("The roots are:", (round(x1,2)),(round(x2,2)))
+    print("The roots are:", (x1:,2f)),((x2:,2f)))
